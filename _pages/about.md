@@ -19,4 +19,4 @@ Enjoy your stay, and please leave a review.
 Warm regards,
 Christine and Håkon
 
-![Christine and Håkon](assets/images/ch_japan.jpg)
+![Christine and Håkon](/assets/images/ch_japan.jpg)
