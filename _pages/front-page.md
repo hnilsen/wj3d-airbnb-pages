@@ -17,14 +17,14 @@ feature_row:
       url: /the-house
       btn_label: "Read more"
       btn_class: "btn--primary"
-    - image_path: "/assets/images/rules.jpeg"
+    - image_path: "/assets/images/rules.jpg"
       alt: "house rules"
       title: "House rules"
       excerpt: "Important rules can be found here."
       url: /rules
       btn_label: "Read more"
       btn_class: "btn--primary"
-    - image_path: "/assets/images/checkout.jpeg"
+    - image_path: "/assets/images/checkout.jpg"
       alt: "checking out"
       title: "Checking out"
       excerpt: "What to do when checking out"
