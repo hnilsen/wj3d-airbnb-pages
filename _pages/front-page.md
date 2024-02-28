@@ -17,20 +17,21 @@ feature_row:
       url: /the-house
       btn_label: "Read more"
       btn_class: "btn--primary"
-    - image_path: "/assets/images/front.jpeg"
-      alt: "the house"
-      title: "The house"
-      excerpt: "Useful information about the house itself"
-      url: /the-house
+    - image_path: "/assets/images/rules.jpeg"
+      alt: "house rules"
+      title: "House rules"
+      excerpt: "Important rules can be found here."
+      url: /rules
       btn_label: "Read more"
       btn_class: "btn--primary"
-    - image_path: "/assets/images/front.jpeg"
-      alt: "the house"
-      title: "The house"
-      excerpt: "Useful information about the house itself"
-      url: /the-house
+    - image_path: "/assets/images/checkout.jpeg"
+      alt: "checking out"
+      title: "Checking out"
+      excerpt: "What to do when checking out
+      url: /checkout
       btn_label: "Read more"
       btn_class: "btn--primary"
+      caption: "Credit: rawpixel.com"
 ---
 
 {% include feature_row id="intro" type="center" %}
