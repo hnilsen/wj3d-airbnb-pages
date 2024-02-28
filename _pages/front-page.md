@@ -27,7 +27,7 @@ feature_row:
     - image_path: "/assets/images/checkout.jpeg"
       alt: "checking out"
       title: "Checking out"
-      excerpt: "What to do when checking out
+      excerpt: "What to do when checking out"
       url: /checkout
       btn_label: "Read more"
       btn_class: "btn--primary"
