@@ -20,9 +20,8 @@
 title: Wiers-Jenssens vei 3D - Airbnb
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  WJ3D beskrivelseWrite an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Wiers-Jenssens vei 3D, our home on Airbnb. The guide on how to use
+  our home, and how to get the most out of the city of Bergen, Norway.
 github_username: hnilsen
 minimal_mistakes_skin: default
 search: true
@@ -81,18 +80,8 @@ author:
 footer:
   links:
     - label: "Phone Håkon"
-      icon: "fab fa-fw fa-phone-square"
+      icon: "fa-fw fa-phone-square"
       url: "tel:+4797979757"
-
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
 
 defaults:
   # _posts
