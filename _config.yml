@@ -61,7 +61,7 @@ plugins:
 
 author:
   name   : "Håkon og Christine"
-  avatar : "/assets/images/profile.jpeg"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Our Airbnb web page"
   links:
     - label: "Website"
